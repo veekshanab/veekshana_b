@@ -8,8 +8,8 @@ I believe in continuous learning and love diving into new tools, technologies, a
 # Tech Skills
 
 # Existing Skills:
-- Programming Languages: Java, Python  
-- Web Development: HTML, CSS, JavaScript, Node.js, Express.js, React.js  
+- Programming Languages: Java, Python, C  
+- Web Development: HTML, CSS, Bootstrap
 - Database: MySQL, MongoDB  
 - Tools & Platforms: VS Code, Git, GitHub, XAMPP, Postman  
 - Data Science Tools: Pandas, NumPy, Matplotlib (basic)  
